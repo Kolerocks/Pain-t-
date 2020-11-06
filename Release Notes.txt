@@ -1,0 +1,191 @@
+Kole's Pain(t) Version 1.0.0 -  11/4/2020
+
+New features:
+
+  * Cleaned up the interface
+  * Cleaned up and improved organization of code
+  * Minor bug fixing with saving and tabs
+
+Known issues:
+
+  * Sometimes when an image is pasted onto a new tab, it resizes it to the other tab's size
+
+Expected next sprint:
+
+  * Add a screenshot feature
+  * Rotate Selected portions
+  * More tools
+  * Log of actions
+
+Links:
+
+  * Youtube: https://youtu.be/SLF_lxi5h8U
+
+  * GitHub: https://github.com/Kolerocks/Pain-t-.git 
+
+----------------------------------------------------------------------------------------------
+
+Kole's Pain(t) Version 0.6.0 -  10/8/2020
+
+New features:
+
+  * Copy
+  * Paste
+  * Multiple Tabs
+
+Known issues:
+
+  * Tabs sometimes duplicate when loading new images
+  * Paste does not work on the image it copied
+
+Expected next sprint:
+
+  * Multiple canvases
+  * More tools
+  * Log of actions
+
+Links:
+
+  * https://youtu.be/w7OoRDilXmE
+
+----------------------------------------------------------------------------------------------
+
+Kole's Pain(t) Version 0.5.0 -  9/26/2020
+
+New features:
+
+  * Autosave timer
+  * Autosave toggle (on/off)
+  * Autosave timer resets upon manual save
+  * Allows ability to save a file as the non-native file type
+  * Provides warning for the file saving feature
+  * Java Doc
+
+Known issues:
+
+  * Select and move sometimes fails to bring what is on the canvas with it
+  * Undo does not always undo select and move
+
+Expected next sprint:
+
+  * Multiple canvases
+  * More tools
+  * Log of actions
+
+Links:
+
+  * https://youtu.be/YnWk8kYZ9GI
+
+----------------------------------------------------------------------------------------------
+
+Kole's Pain(t) Version 0.4.0 -  9/21/2020
+
+New features:
+
+  * Ability to add text to the image
+  * Ability to draw a double rectangle
+  * Eraser tool
+  * Tool indicator
+  * Redo button
+  * Provide release notes in help
+  * Drawing tools will let the user see what they are doing as they are doing it
+  * The software shall have the ability to select and move a piece of image
+
+Known issues:
+
+  * Select and move sometimes fails to bring what is on the canvas with it
+  * Undo does not always undo select and move
+  * The saved file does not have a thumbnail
+
+Expected next sprint:
+
+  * Auto save
+  * File conversion
+
+Links:
+
+  * https://youtu.be/FOPRH24-EKo
+
+----------------------------------------------------------------------------------------------
+
+Kole's Pain(t) Version 0.3.0 -  9/11/2020
+
+New features:
+
+  * Ability to draw shapes
+  * Ability to draw straight lines
+  * Ability to change the size and color of the lines and shapes
+  * Dropper
+  * Undo button
+  * Zoom in and zoom out
+  * Draw button phased out
+  * Nice close
+
+Known issues:
+
+  * Shapes can only be made top left to buttom right
+  * When a file is opened, sometimes the buttons are compressed
+  * The saved file does not have a thumbnail
+
+Expected next sprint:
+
+  * Drag/cut tool
+  * Cosmetic overhaul
+  * Redo button
+
+Links:
+
+  * https://youtu.be/gOebRTsuEiE
+
+----------------------------------------------------------------------------------------------
+
+Kole's Pain(t) Version 0.2.0 -  9/4/2020
+
+New features:
+
+  * Save button
+  * Ability to draw lines
+  * Ability to change the size and color of the lines
+  * Help button
+  * Scroll bars
+
+Known issues:
+
+  * Currently the Draw button needs to be pressed to make the image drawable
+  * When a file is opened, sometimes the buttons are compressed
+  * The saved file does not have a thumbnail
+
+Expected next sprint:
+
+  * New drawing tools
+  * New shapes
+  * More work with files
+
+Links:
+
+  * https://youtu.be/ryuvwlnriO0
+
+----------------------------------------------------------------------------------------------
+
+Kole's Pain(t) Version 0.1.0 -  8/28/2020
+
+New features:
+
+  * Finds and opens files 
+  * Saves opened files
+  * Contains a close button
+
+Known issues:
+
+  * The image always sizes to 500/500
+  * The saved file does not have a thumbnail
+
+Expected next sprint:
+
+  * Adding a Save As function
+  * Adding a line drawing tool
+  * Changing the thickness and color of the drawing tool
+
+Links:
+
+  * Demo link: https://youtu.be/Wo41mNTFVpg 
